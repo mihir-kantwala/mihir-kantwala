@@ -1,6 +1,6 @@
 <h6>Languages and Tools</h6>
 <p align="middle">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next.js,tailwind,nodejs,git,github,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,git,github,vscode,mongodb" />
 </p>
 
 <!--
