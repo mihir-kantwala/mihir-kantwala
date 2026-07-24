@@ -1,5 +1,6 @@
 <h6 align="middle">Languages and Tools</h6>
 <p align="middle">
+    <img src="https://your-image-url.com/banner.png" alt="Banner" />
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,mongodb,postman,git,vscode" />
 </p>
 
