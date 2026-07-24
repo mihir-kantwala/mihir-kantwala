@@ -1,14 +1,8 @@
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode" />
+<h6>Languages and Tools</h6>
+<p align="middle">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next.js,tailwind,nodejs,git,github,vscode,mongodb" />
 </p>
 
-## 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-</p>
 <!--
 **mihir-kantwala/mihir-kantwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
