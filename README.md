@@ -11,7 +11,7 @@
 
 **<h2>About Me</h2>**
 
-*My main tech stack includes* `**React**` *and* `**Next.js**` *for frontend development, styled with* **CSS** *and* **Tailwind CSS**, *along with* **Node.js** *and* **Express.js** *for backend development and* **MongoDB** *for database management.*
+*My main tech stack includes* **`React`** *and* `**Next.js**` *for frontend development, styled with* **CSS** *and* **Tailwind CSS**, *along with* **Node.js** *and* **Express.js** *for backend development and* **MongoDB** *for database management.*
 
 *I used* **AOS** *and* **GSAP** *for animations, and deployed projects using* **Netlify**, **Vercel**, and **Render**.
 
