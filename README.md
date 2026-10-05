@@ -19,33 +19,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img 
-    src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif" 
-   height="200"
-  />
-</p>
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <img
+    src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif"
+    style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
 
-👋 Hey, I'm Mihir Kantwala
-🚀 Full Stack Developer | Frontend Focused | MERN & Next.js
+Hey, I'm **Mihir Kantwala**
+Full Stack Developer | Frontend Focused | MERN & Next.js
 
 I’m a Full Stack Developer passionate about building clean, responsive, and scalable web applications.
 
 I enjoy turning ideas into real products — from designing the frontend and building reusable React components to developing REST APIs, authentication systems, and database architectures.
 
-🧑‍💻 About Me
-🔭 Currently building Full Stack Web Applications
-🌱 Learning and improving Node.js, Express.js, MongoDB & Next.js
-⚛️ Strong focus on React.js & modern frontend development
-🔐 Interested in Authentication, Authorization & scalable backend architecture
-🎯 Preparing for Full Stack Developer opportunities
-💡 I enjoy solving problems and improving my development logic
-📍 India
+**About Me**
+
+I am Learning and improving Node.js, Express.js, MongoDB & Next.js.
+Strong focus on React.js & modern frontend development.
+Interested in Authentication, Authorization & scalable backend architecture.
+Preparing for Full Stack Developer opportunities.
+I enjoy solving problems and improving my development logic.
+
+
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
