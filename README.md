@@ -33,11 +33,10 @@
 [![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-4C4C4C?style=flat&labelColor=191919)](https://cottoncandy301.netlify.app/)<br />
 [![Live Site](https://img.shields.io/badge/GSAP%20Animation-gsap--homepage.netlify.app/-4C4C4C?style=flat&labelColor=191919)](https://gsap-homepage.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/GSAP_LandingPage)<br />
+[![Live Site](https://img.shields.io/badge/Crypto%20Coin%20LandingPage--mihir--kantwala.github.io/-4C4C4C?style=flat&labelColor=191919)](https://mihir-kantwala.github.io/Crypto-Coin-LandingPage/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/Crypto-Coin-LandingPage)
 
-[![Live Site](https://img.shields.io/badge/Crypto%20Coin%20LandingPage-Crypto--mihir--kantwala.github.io/-4C4C4C?style=flat&labelColor=191919)](https://mihir-kantwala.github.io/Crypto-Coin-LandingPage/)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/GSAP_LandingPage)
 
-https://mihir-kantwala.github.io/Crypto-Coin-LandingPage/
 
 
 <!-- [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project) -->
