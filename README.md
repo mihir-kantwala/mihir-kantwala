@@ -32,7 +32,7 @@ My main tech stack is making frontend in ***React*** and
 
 I enjoy turning ideas into real products — from designing the frontend and building reusable React components to developing REST APIs, authentication systems, and database architectures.
 
-<h3>**About Me**</h3>
+**<h3 >About Me</h3>**
 
 I am Learning and improving Node.js, Express.js, MongoDB & Next.js.
 Strong focus on React.js & modern frontend development.
@@ -42,27 +42,16 @@ I enjoy solving problems and improving my development logic.
 
 
 <p align="center">
-
+   <b>Tech stack i used</b>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
 </p>
 
 🚀 What I Build
