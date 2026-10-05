@@ -2,12 +2,9 @@
 <hr />
 
 *Welcome to my* **GITHUB Profile** 
-
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
-
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
-<hr />
 
 **<h2>About Me</h2>**
 
@@ -31,6 +28,9 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-8B5CF6?style=for-the-badge)](https://your-project.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/project)
 
 🚀 What I Build
 Frontend
