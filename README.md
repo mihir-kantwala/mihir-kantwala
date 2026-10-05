@@ -40,7 +40,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--mihir--kantwala.vercel.app-8B5CF6?style=flat)](https://my-portfolio-mihir-kantwala.vercel.app/)
-[![](https://img.shields.io/badge/GitHub-View%20Code-181717?style=social&logo=github)](https://github.com/yourusername/project)
+[![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project)
 
 
 
