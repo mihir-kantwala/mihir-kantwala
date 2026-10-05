@@ -1,3 +1,4 @@
+<img width="960" height="387" alt="gif1-ezgif" src="https://github.com/user-attachments/assets/ff9e48ca-fd04-4978-b8cc-1384a82afa39" />
 <!-- <h6 align="middle">Languages and Tools</h6>
 <p align="middle">
    
