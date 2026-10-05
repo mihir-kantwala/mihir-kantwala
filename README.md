@@ -25,11 +25,19 @@ Here are some ideas to get you started:
     style="width: 100%; height: 50%; object-fit: cover;"
   />
 </div>
+<hr />
+<br />
+```javascript
+const developer = {
+  name: "Mihir",
+  role: "Full Stack Developer"
+};
+```
 
 Hey, I'm **Mihir Kantwala**
 Full Stack Developer | Frontend Focused | MERN & Next.js
 
-I’m a Full Stack Developer passionate about building clean, responsive, and scalable web applications.
+My main tech stack is making frontend in <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> and 
 
 I enjoy turning ideas into real products — from designing the frontend and building reusable React components to developing REST APIs, authentication systems, and database architectures.
 
@@ -42,7 +50,7 @@ Preparing for Full Stack Developer opportunities.
 I enjoy solving problems and improving my development logic.
 
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
 
@@ -50,7 +58,7 @@ I enjoy solving problems and improving my development logic.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
