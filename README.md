@@ -50,7 +50,7 @@
   />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true&ring=8B5CF6&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF"
     width="48%"
@@ -59,7 +59,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true&title_color=C084FC&text_color=9CA3AF"
     width="48%"
   />
-</p>
+</p> -->
 
 
 <!-- <img
@@ -85,7 +85,7 @@
 />  -->
 
 
-
+<p align="center"> <b>Thanks for visiting my profile!</b> </p>
 <p align="center">
   <a href="https://in.linkedin.com/in/mihir-kantwala-221582318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -102,8 +102,4 @@
 </p>
 
 
-"Build. Break. Learn. Improve. Repeat."
 
-If you find my projects useful, feel free to star them!
-
-<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
