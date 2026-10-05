@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=logo&logo=html5&logoColor=white"  />
 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-8B5CF6?style=for-the-badge)](https://your-project.com)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/project)
+[![Cotton-Candy-Ecom](https://img.shields.io/badge/Live%20Demo-Visit%20Site-8B5CF6?style=for-the-badge)](https://your-project.com)
+[![GSAP-animation-site](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/project)
 
 🚀 What I Build
 Frontend
