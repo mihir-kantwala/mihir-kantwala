@@ -62,7 +62,7 @@
 </p>
 
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api?username=mihir-kantwala&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
 />
 <img
@@ -77,11 +77,12 @@
 <img
   src="https://github-profile-trophy.vercel.app/?username=kantwalamihir34-6082&theme=tokyonight&no-frame=true&no-bg=true&column=7"
 />
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/output/github-contribution-grid-snake.svg) -->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/output/github-contribution-grid-snake.svg)  -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)
- <img
+
+<!-- <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-kantwala&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=C084FC&area=true&hide_border=true"
-/> 
+/>  -->
 
 
 
