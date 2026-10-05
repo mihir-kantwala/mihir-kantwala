@@ -91,10 +91,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<a href="mailto:kantwalamihir34@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kantwalamihir34@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </a>
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kantwalamihir34@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat" alt="Profile Views" />
