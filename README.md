@@ -89,7 +89,7 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/mihir-kantwala-221582318"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a href="mailto:kantwalamihir34@gamil.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
-![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)]
 </p>
 
 
