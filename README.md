@@ -36,59 +36,9 @@
 [![](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/project)
 
 
-A full-stack single-brand e-commerce application inspired by modern fashion platforms.
 
-Tech: Next.js • React • Node.js • MongoDB • Tailwind CSS • Cloudinary
-
-Features:
-```json
-{
-  "name": "my-project",
-  "version": "1.0.0"
-}
-```
-
-🛒 Shopping cart & wishlist
-🔐 User & Admin authentication
-📦 Product & order management
-🖼️ Cloudinary image management
-👨‍💼 Admin dashboard
-📱 Responsive design
-🩸 BloodBank
-
-A blood donation and management platform connecting users, hospitals, and blood banks.
-
-Tech: Laravel • PHP • MySQL • Tailwind CSS
-
-Features:
-
-👤 Patient management
-🏥 Hospital management
-🩸 Blood stock management
-📋 Blood requests
-📍 Location-based blood bank discovery
-📊 Admin dashboard
-🎟️ Event Booking System
-
-A full-stack event booking application built as a practical full-stack project.
-
-Tech: React • Node.js • Express • MongoDB
-
-Features:
-
-🎫 Event listing
-📅 Slot management
-👥 Seat booking
-💰 Dynamic pricing
-🔥 Weekend surcharge
-🎁 Bulk booking discount
-🔌 REST APIs
-📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihir-kantwala&show_icons=true&theme=transparent&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true" /> </p>
-
-📈 Most Used Languages
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihir-kantwala&show_icons=true&theme=transparent&hide_border=true" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true" /> </p>
 
 🎯 My Current Focus
