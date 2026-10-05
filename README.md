@@ -39,7 +39,7 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-4C4C4C?style=flat-square&labelColor=191919)](https://mihirkantwala-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-4C4C4C?style=flat&labelColor=191919)](https://mihirkantwala-portfolio.vercel.app/)
 
 [![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-4C4C4C?style=flat&labelColor=191919)](https://cottoncandy301.netlify.app/)
 
