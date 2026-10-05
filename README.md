@@ -80,9 +80,9 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-kantwala&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=C084FC&area=true&hide_border=true"
 /> -->
 
-https://in.linkedin.com/in/mihir-kantwala-221582318
 
-<p> <a href="https://github.com/mihir-kantwala"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kantwalamihir34@gamil.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+<p><a href="https://in.linkedin.com/in/mihir-kantwala-221582318"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kantwalamihir34@gamil.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 "Build. Break. Learn. Improve. Repeat."
 
