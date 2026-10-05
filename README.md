@@ -5,14 +5,15 @@
 *<p>👋🏻 Welcome to my* **GITHUB** *Profile.</p>*
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
+
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
 ## About Me 
 *My main tech stack includes* **`React`** *and* **`Next.js`** *for frontend development, styled with* **`CSS`** *and* **`Tailwind CSS`**, *along with* **`Node.js`** *and* **`Express.js`** *for backend development and* **`MongoDB`** *for database management, and* **`PostMAN`** *for Api testing.* <br />
+
 *I also used* **`AOS`** *and* **`GSAP`** *for animations, and deployed projects using* **`Netlify`**, **`Vercel`**, and **`Render`**. <br />
+
 *I am currently learning* **`Redis`**, **`Soket.io`** *and* **`PostgreSQL`** *databases.* <br />
-
-
 
 **<h2>Tech stack i used</h2>**
 <p align="center">
