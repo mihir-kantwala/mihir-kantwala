@@ -29,6 +29,14 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"  />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=social&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=logo&logo=html5&logoColor=white"  />
+
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-8B5CF6?style=for-the-badge)](https://your-project.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/project)
 
