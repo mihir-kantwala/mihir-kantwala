@@ -1,7 +1,8 @@
 <img width="960" height="387" alt="gif1-ezgif" src="https://github.com/user-attachments/assets/ff9e48ca-fd04-4978-b8cc-1384a82afa39" />
 <hr />
 
-*Welcome to my* **GITHUB Profile** 
+*<h3>Welcome to my* **GITHUB Profile</h3>**
+
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
