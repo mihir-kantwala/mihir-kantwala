@@ -7,15 +7,15 @@
 
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
+<hr />
+
+**<h2>About Me</h2>**
 
 *My main tech stack includes* **React** *and* **Next.js** *for frontend development, styled with* **CSS** *and* **Tailwind CSS**, *along with* **Node.js** *and* **Express.js** *for backend development and* **MongoDB** *for database management.*
 
 *I used* **AOS** *and* **GSAP** *for animations, and deployed projects using* **Netlify**, **Vercel**, and **Render**.
 
-**<h3 >About Me</h3>**
-
-I am currently learning Redis, soket.io and NoSQL databases.
-Preparing for Full Stack Developer opportunities.
+*I am currently learning* **Redis**, **soket.io** *and* **NoSQL** *databases.*
 
 
 
