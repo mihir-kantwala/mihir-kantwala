@@ -8,7 +8,7 @@
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
 ## `About Me`
-***
+---
 *My main tech stack includes* **`React`** *and* **`Next.js`** *for frontend development, styled with* **`CSS`** *and* **`Tailwind CSS`**, *along with* **`Node.js`** *and* **`Express.js`** *for backend development and* **`MongoDB`** *for database management, and* **`PostMAN`** *for Api testing.*
 *I also used* **`AOS`** *and* **`GSAP`** *for animations, and deployed projects using* **`Netlify`**, **`Vercel`**, and **`Render`**.
 *I am currently learning* **`Redis`**, **`Soket.io`** *and* **`PostgreSQL`** *databases.*
