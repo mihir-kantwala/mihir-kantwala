@@ -3,7 +3,7 @@
 
 
 *<p style="font-size: 30px;>Welcome to my* **GITHUB** *Profile </p>*
-## <i>Welcome to my</i> <strong>GITHUB</strong> Profile
+# <i>Welcome to my</i> ## <strong>GITHUB</strong> # Profile
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
 *Feel free to explore my repositories and check out what I'm currently working on!*
