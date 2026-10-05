@@ -31,6 +31,8 @@ Full Stack Developer | Frontend Focused | MERN & Next.js
 
 *My main tech stack includes* **React** *and* **Next.js** *for frontend development, styled with* **CSS** *and* **Tailwind CSS**, *along with* **Node.js** *and* **Express.js** *for backend development and* **MongoDB** *for database management.*
 
+*I used* **AOS** *and* **GSAP** *for animations, and deployed projects using* **Netlify**, **Vercel**, and **Render**.
+
 **<h3 >About Me</h3>**
 
 I am Learning and improving Node.js, Express.js, MongoDB & Next.js.
