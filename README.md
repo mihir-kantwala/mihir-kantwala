@@ -84,7 +84,7 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-kantwala&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=C084FC&area=true&hide_border=true"
 />  -->
 
-
+***
 <p align="center"> <b>Thanks for visiting my profile!</b> </p>
 <p align="center">
   <a href="https://in.linkedin.com/in/mihir-kantwala-221582318">
