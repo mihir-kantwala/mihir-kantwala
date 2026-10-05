@@ -1,28 +1,6 @@
 <img width="960" height="387" alt="gif1-ezgif" src="https://github.com/user-attachments/assets/ff9e48ca-fd04-4978-b8cc-1384a82afa39" />
-<!-- <h6 align="middle">Languages and Tools</h6>
-<p align="middle">
-   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,mongodb,postman,git,vscode" />
-</p> -->
-
-<!--
-**mihir-kantwala/mihir-kantwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <hr />
-<br />
+
 
 
 Hey, I'm **Mihir Kantwala**
@@ -42,7 +20,7 @@ Preparing for Full Stack Developer opportunities.
 I enjoy solving problems and improving my development logic.
 
 
-   <b align="center">Tech stack i used</b>
+**<p align="center">Tech stack i used</p>**
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
