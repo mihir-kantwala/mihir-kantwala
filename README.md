@@ -74,7 +74,7 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
 />
 <img
-  src="https://github-profile-trophy.vercel.app/?username=mihir-kantwala&theme=transparent&no-frame=true&no-bg=true&column=7"
+  src="https://github-profile-trophy.vercel.app/?username=kantwalamihir34-6082&theme=transparent&no-frame=true&no-bg=true&column=7"
 />
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/output/github-contribution-grid-snake.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)
