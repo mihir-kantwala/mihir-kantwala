@@ -37,7 +37,7 @@ const developer = {
 Hey, I'm **Mihir Kantwala**
 Full Stack Developer | Frontend Focused | MERN & Next.js
 
-My main tech stack is making frontend in <b style="color:#61DAFB">React</b> and 
+My main tech stack is making frontend in ***React*** and 
 
 I enjoy turning ideas into real products — from designing the frontend and building reusable React components to developing REST APIs, authentication systems, and database architectures.
 
