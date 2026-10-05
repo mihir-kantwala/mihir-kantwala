@@ -27,20 +27,16 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=social&logo=express&logoColor=white" />
-
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-4C4C4C?style=flat&labelColor=191919)](https://mihirkantwala-portfolio.vercel.app/)
+<p>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-4C4C4C?style=flat&labelColor=191919)](https://mihirkantwala-portfolio.vercel.app/)
 
 [![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-4C4C4C?style=flat&labelColor=191919)](https://cottoncandy301.netlify.app/)
 
 [![Live Site](https://img.shields.io/badge/GSAP%20Animation-gsap--homepage.netlify.app/-4C4C4C?style=flat&labelColor=191919)](https://gsap-homepage.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/GSAP_LandingPage)
+
+</p>
+
 
 <!-- [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project) -->
 
