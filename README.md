@@ -2,7 +2,7 @@
 <hr />
 
 
-*<p>👋🏻 Welcome to my* **GITHUB** *Profile </p>*
+*<p>👋🏻 Welcome to my* **GITHUB** *Profile.</p>*
 
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
@@ -19,7 +19,7 @@
 
 
 
-**<h2 align="center">Tech stack i used</h2>**
+**<h3>Tech stack i used</h3>**
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
