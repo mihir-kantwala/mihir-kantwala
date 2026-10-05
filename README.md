@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width: 300px; height: 200px; overflow: hidden;">
-  <img
-    src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif"
-    style="width: 100%; height: 50%; object-fit: cover;"
-  />
-</div>
+
 <hr />
 <br />
 
