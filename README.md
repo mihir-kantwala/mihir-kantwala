@@ -1,4 +1,4 @@
-<img width="960" height="387" alt="gif1-ezgif" src="https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/refs/heads/main/sapceGIf.gif" />
+<img width="960" height="387" alt="gif1-ezgif" src="https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/refs/heads/main/gif1-ezgif.gif" />
 <hr />
 
 *<p>👋🏻 Welcome to my* **GITHUB** *Profile.</p>*
