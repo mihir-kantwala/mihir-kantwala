@@ -2,7 +2,7 @@
 <hr />
 
 
-*<p>Welcome to my* **GITHUB** *Profile </p>*
+*<p>👋🏻 Welcome to my* **GITHUB** *Profile </p>*
 
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
