@@ -46,8 +46,16 @@
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mihir-kantwala&show_icons=true&theme=transparent&hide_border=true" />  -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6"
+    width="49%"
+  />
+</p>
 
 
 
