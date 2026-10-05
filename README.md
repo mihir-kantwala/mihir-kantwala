@@ -85,7 +85,7 @@
 />  -->
 
 ***
-<p align="center"> <b>Thanks for visiting my profile!</b> </p>
+<!-- <p align="center"> <b>Thanks for visiting my profile!</b> </p> -->
 <p align="center">
   <a href="https://in.linkedin.com/in/mihir-kantwala-221582318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
