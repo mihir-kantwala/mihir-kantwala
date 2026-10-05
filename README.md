@@ -41,7 +41,7 @@ My main tech stack is making frontend in ***React*** and
 
 I enjoy turning ideas into real products — from designing the frontend and building reusable React components to developing REST APIs, authentication systems, and database architectures.
 
-**About Me**
+<h1>**About Me**</ h1>
 
 I am Learning and improving Node.js, Express.js, MongoDB & Next.js.
 Strong focus on React.js & modern frontend development.
