@@ -1,6 +1,13 @@
 <img width="960" height="387" alt="gif1-ezgif" src="https://github.com/user-attachments/assets/ff9e48ca-fd04-4978-b8cc-1384a82afa39" />
 <hr />
 
+# mihir
+## mihir
+### mihir
+#### mihir 
+##### mihir
+###### mihir
+
 *<p>👋🏻 Welcome to my* **GITHUB** *Profile.</p>*
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
