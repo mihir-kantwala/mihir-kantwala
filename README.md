@@ -1,8 +1,6 @@
 <img width="960" height="387" alt="gif1-ezgif" src="https://github.com/user-attachments/assets/ff9e48ca-fd04-4978-b8cc-1384a82afa39" />
 <hr />
 
-Pixel Glitch GIF - Find & Share on GIPHY.gif
-
 *<p>👋🏻 Welcome to my* **GITHUB** *Profile.</p>*
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
@@ -88,7 +86,7 @@ Pixel Glitch GIF - Find & Share on GIPHY.gif
 <!-- <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-kantwala&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=C084FC&area=true&hide_border=true"
 />  -->
-<img width="960" height="387" alt="gif1-ezgif" src="./Pixel Glitch GIF - Find & Share on GIPHY.gif" />
+
 ***
 <!-- <p align="center"> <b>Thanks for visiting my profile!</b> </p> -->
 <p align="center">
