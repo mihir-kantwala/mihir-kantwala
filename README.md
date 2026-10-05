@@ -1,20 +1,13 @@
 <img width="960" height="387" alt="gif1-ezgif" src="https://github.com/user-attachments/assets/ff9e48ca-fd04-4978-b8cc-1384a82afa39" />
 <hr />
 
-# mihir
-## mihir
-### mihir
-#### mihir 
-##### mihir
-###### mihir
 
 *<p>👋🏻 Welcome to my* **GITHUB** *Profile.</p>*
 
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
-**<h2>About Me</h2>**
-
+### `About Me` <br />
 *My main tech stack includes* **`React`** *and* **`Next.js`** *for frontend development, styled with* **`CSS`** *and* **`Tailwind CSS`**, *along with* **`Node.js`** *and* **`Express.js`** *for backend development and* **`MongoDB`** *for database management, and* **`PostMAN`** *for Api testing.*
 *I also used* **`AOS`** *and* **`GSAP`** *for animations, and deployed projects using* **`Netlify`**, **`Vercel`**, and **`Render`**.
 *I am currently learning* **`Redis`**, **`Soket.io`** *and* **`PostgreSQL`** *databases.*
