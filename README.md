@@ -62,6 +62,26 @@
   />
 </p>
 
+
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=mihir-kantwala&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=mihir-kantwala&theme=transparent&no-frame=true&no-bg=true&column=7"
+/>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-kantwala&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=C084FC&area=true&hide_border=true"
+/>
+
 <p> <a href="https://github.com/mihir-kantwala"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 "Build. Break. Learn. Improve. Repeat."
