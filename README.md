@@ -77,8 +77,8 @@
 <img
   src="https://github-profile-trophy.vercel.app/?username=kantwalamihir34-6082&theme=tokyonight&no-frame=true&no-bg=true&column=7"
 />
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/output/github-contribution-grid-snake.svg)  -->
-![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mihir-kantwala/mihir-kantwala/output/github-contribution-grid-snake.svg)  
+![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat) -->
 
 <!-- <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-kantwala&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=C084FC&area=true&hide_border=true"
@@ -89,9 +89,9 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/mihir-kantwala-221582318"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a href="mailto:kantwalamihir34@gamil.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
-
-</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir-kantwala&color=8B5CF6&style=flat)
+</p>
+
 
 "Build. Break. Learn. Improve. Repeat."
 
