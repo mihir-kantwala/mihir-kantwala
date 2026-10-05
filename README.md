@@ -27,12 +27,7 @@ Here are some ideas to get you started:
 </div>
 <hr />
 <br />
-```javascript
-const developer = {
-  name: "Mihir",
-  role: "Full Stack Developer"
-};
-```
+
 
 Hey, I'm **Mihir Kantwala**
 Full Stack Developer | Frontend Focused | MERN & Next.js
