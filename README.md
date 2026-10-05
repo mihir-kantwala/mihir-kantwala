@@ -3,6 +3,9 @@
 
 *<p>Welcome to my* **GITHUB Profile</p>**
 
+***
+---
+
 *Here you'll find some of my pinned projects, contributions, and the work I've built while learning and growing as a* **Full Stack Developer**.
 *Feel free to explore my repositories and check out what I'm currently working on!*
 
