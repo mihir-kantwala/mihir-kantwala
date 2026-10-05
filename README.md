@@ -53,15 +53,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true&ring=8B5CF6&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true&title_color=C084FC&text_color=9CA3AF"
     width="48%"
   />
 </p>
-
 
 <p> <a href="https://github.com/mihir-kantwala"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
