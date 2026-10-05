@@ -48,48 +48,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-kantwala&theme=transparent&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true" />
 
-🎯 My Current Focus
-```java-script
-const mihir = {
-  role: "Full Stack Developer",
-
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
-  ],
-
-  database: [
-    "MongoDB",
-    "Mongoose",
-    "MySQL"
-  ],
-
-  currentlyLearning: [
-    "Advanced Next.js",
-    "Authentication & Authorization",
-    "Redis",
-    "System Design"
-  ],
-
-  goal: "Build scalable products and become a strong Full Stack Engineer"
-};
-```
-🤝 Let's Connect
 
 <p> <a href="https://github.com/mihir-kantwala"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-💭 Developer Mindset
-
 "Build. Break. Learn. Improve. Repeat."
 
-⭐ If you find my projects useful, feel free to star them!
+If you find my projects useful, feel free to star them!
 
 <p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
