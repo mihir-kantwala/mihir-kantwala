@@ -39,6 +39,12 @@ A full-stack single-brand e-commerce application inspired by modern fashion plat
 Tech: Next.js • React • Node.js • MongoDB • Tailwind CSS • Cloudinary
 
 Features:
+```json
+{
+  "name": "my-project",
+  "version": "1.0.0"
+}
+```
 
 🛒 Shopping cart & wishlist
 🔐 User & Admin authentication
