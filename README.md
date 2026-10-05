@@ -39,8 +39,8 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--mihir--kantwala.vercel.app-8B5CF6?style=for-the-badge)](https://my-portfolio-mihir-kantwala.vercel.app/)
-[![](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/project)
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--mihir--kantwala.vercel.app-8B5CF6?style=flat)](https://my-portfolio-mihir-kantwala.vercel.app/)
+[![](https://img.shields.io/badge/GitHub-View%20Code-181717?style=social&logo=github)](https://github.com/yourusername/project)
 
 
 
