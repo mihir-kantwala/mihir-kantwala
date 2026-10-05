@@ -39,7 +39,7 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--mihir-ffffff-kantwala.vercel.app-8B5CF6?style=flat)](https://my-portfolio-mihir-kantwala.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-8B5CF6?style=flat)](https://mihirkantwala-portfolio.vercel.app/)
 [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project)
 
 
