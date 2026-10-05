@@ -42,6 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kantwala&layout=compact&theme=transparent&hide_border=true" />
 
 🎯 My Current Focus
+```java-script
 const mihir = {
   role: "Full Stack Developer",
 
@@ -73,6 +74,7 @@ const mihir = {
 
   goal: "Build scalable products and become a strong Full Stack Engineer"
 };
+```
 🤝 Let's Connect
 
 <p> <a href="https://github.com/mihir-kantwala"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
