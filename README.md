@@ -3,8 +3,6 @@
 
 
 
-Hey, I'm **Mihir Kantwala**
-Full Stack Developer | Frontend Focused | MERN & Next.js
 
 
 *My main tech stack includes* **React** *and* **Next.js** *for frontend development, styled with* **CSS** *and* **Tailwind CSS**, *along with* **Node.js** *and* **Express.js** *for backend development and* **MongoDB** *for database management.*
@@ -13,11 +11,9 @@ Full Stack Developer | Frontend Focused | MERN & Next.js
 
 **<h3 >About Me</h3>**
 
-I am Learning and improving Node.js, Express.js, MongoDB & Next.js.
-Strong focus on React.js & modern frontend development.
-Interested in Authentication, Authorization & scalable backend architecture.
+I am currently learning Redis, soket.io and NoSQL databases.
 Preparing for Full Stack Developer opportunities.
-I enjoy solving problems and improving my development logic.
+
 
 
 **<p align="center">Tech stack i used</p>**
