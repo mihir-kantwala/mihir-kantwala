@@ -39,11 +39,11 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-8B5CF6?style=flat&labelColor=6D28D9)](https://mihirkantwala-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-4C4C4C?style=flat&labelColor=191919)](https://mihirkantwala-portfolio.vercel.app/)
 
-[![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-8B5CF6?style=flat&labelColor=6D28D9)](https://cottoncandy301.netlify.app/)
+[![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-4C4C4C?style=flat&labelColor=191919)](https://cottoncandy301.netlify.app/)
 
-[![Live Site](https://img.shields.io/badge/GSAP%20Animation-gsap--homepage.netlify.app/-8B5CF6?style=flat&labelColor=6D28D9)](https://gsap-homepage.netlify.app/)
+[![Live Site](https://img.shields.io/badge/GSAP%20Animation-gsap--homepage.netlify.app/-4C4C4C?style=flat&labelColor=191919)](https://gsap-homepage.netlify.app/)
 
 <!-- [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project) -->
 https://gsap-homepage.netlify.app/
