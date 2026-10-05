@@ -41,7 +41,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-8B5CF6?style=flat)](https://mihirkantwala-portfolio.vercel.app/)
 
-[![Live-Site](https://img.shields.io/badge/Cotton--Candy-cottoncandy301.netlify.app-8B5CF6?style=flat)](https://cottoncandy301.netlify.app/)
+[![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-8B5CF6?style=flat)](https://cottoncandy301.netlify.app/)
 
 [![Live Site](https://img.shields.io/badge/GSAP--Animation-gsap--homepage.netlify.app/-8B5CF6?style=flat)](https://gsap-homepage.netlify.app/)
 
