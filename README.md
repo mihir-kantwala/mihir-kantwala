@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 Hey, I'm **Mihir Kantwala**
 Full Stack Developer | Frontend Focused | MERN & Next.js
 
-*My main tech stack is making frontend in* **React** and **Next.js** *with* ***CSS*** *and* **Tailwind** styling with backend in Node.js and Express.js using MongoDB database.   
 
-My main tech stack includes React and Next.js for frontend development, styled with CSS and Tailwind CSS, along with Node.js and Express.js for backend development and MongoDB for database management.
+*My main tech stack includes* **React** *and* **Next.js** *for frontend development, styled with* **CSS** *and* **Tailwind CSS**, *along with* **Node.js** *and* **Express.js** *for backend development and* **MongoDB** *for database management.*
+
 **<h3 >About Me</h3>**
 
 I am Learning and improving Node.js, Express.js, MongoDB & Next.js.
