@@ -14,7 +14,7 @@
 
 *I am currently learning* **`Redis`**, **`Soket.io`** *and* **`PostgreSQL`** *databases.* <br />
 
-**<h2>Tech stack i used</h2>**
+**<h2>Tech stack</h2>**
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## My live WebSites 
+## live WebSites 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mihirkantwala--portfolio.vercel.app-4C4C4C?style=flat&labelColor=191919)](https://mihirkantwala-portfolio.vercel.app/)<br />
 [![Live-Site](https://img.shields.io/badge/Cotton%20Candy-cottoncandy301.netlify.app-4C4C4C?style=flat&labelColor=191919)](https://cottoncandy301.netlify.app/)<br />
 [![Live Site](https://img.shields.io/badge/GSAP%20Animation-gsap--homepage.netlify.app/-4C4C4C?style=flat&labelColor=191919)](https://gsap-homepage.netlify.app/)
