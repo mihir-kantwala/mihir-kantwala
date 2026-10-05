@@ -43,7 +43,7 @@
 
 [![Live-Site](https://img.shields.io/badge/Cotton--Candy-cottoncandy301.netlify.app-8B5CF6?style=flat)](https://cottoncandy301.netlify.app/)
 
-[![Live-Site](https://img.shields.io/badge/GSAP-Animation--gsap-homepage.netlify.app-8B5CF6?style=flat)](https://gsap-homepage.netlify.app/)
+[![Live-Site](https://img.shields.io/badge/GSAP-Animation-gsap-homepage.netlify.app-8B5CF6?style=flat)](https://gsap-homepage.netlify.app/)
 
 <!-- [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project) -->
 https://gsap-homepage.netlify.app/
