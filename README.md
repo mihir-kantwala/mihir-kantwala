@@ -38,8 +38,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/Nexora_landingPage)
 
 
-https://mihir-kantwala.github.io/Nexora_landingPage/
-
 <!-- [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project) -->
 
 
