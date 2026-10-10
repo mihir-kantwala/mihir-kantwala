@@ -34,9 +34,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/GSAP_LandingPage)<br />
 [![Live Site](https://img.shields.io/badge/Crypto%20Coin%20LandingPage-mihir--kantwala.github.io/-4C4C4C?style=flat&labelColor=191919)](https://mihir-kantwala.github.io/Crypto-Coin-LandingPage/)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/Crypto-Coin-LandingPage)
+[![Live Site](https://img.shields.io/badge/Nexora%20LandingPage-mihir--kantwala.github.io/-4C4C4C?style=flat&labelColor=191919)](https://mihir-kantwala.github.io/Nexora_landingPage/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/mihir-kantwala/Nexora_landingPage)
 
 
-
+https://mihir-kantwala.github.io/Nexora_landingPage/
 
 <!-- [![](https://img.shields.io/badge/GitHub-View%20Code-ffffff?style=social&logo=github)](https://github.com/yourusername/project) -->
 
